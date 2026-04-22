@@ -16,4 +16,17 @@ An Android application to track daily habits, monitor progress, and improve prod
 - SQLite (Room Database)
 - MPAndroidChart
 - Android Studio
-- 
+
+  ## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home](screenshots/Deshbord.jpg)
+
+### 📋 Habits Screen
+![Habits](screenshots/habits.jpg)
+
+### 📊 Analytics Screen
+![Analytics](screenshots/Aalitics.jpg)
+
+### 🔐 Login Screen
+![Login](screenshots/login_page.jpg)
